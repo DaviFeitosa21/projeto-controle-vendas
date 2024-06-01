@@ -17,10 +17,5 @@ namespace ProjControl.Forms.Forms.Connection
             return new MySqlConnection(conexao);
         }
 
-
-
-
-
-
     }
 }

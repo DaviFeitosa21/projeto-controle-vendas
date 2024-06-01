@@ -105,6 +105,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Forms.Connection\ConnectionBD.cs" />
+    <Compile Include="Forms\Forms.Connection\Forms.DAO\ClientesDAO.cs" />
     <Compile Include="Forms\Forms.Model\Clientes.cs" />
     <Compile Include="Forms\Forms.View\frmClientes.cs">
       <SubType>Form</SubType>

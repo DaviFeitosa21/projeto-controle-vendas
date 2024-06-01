@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjControl.Forms.Forms.Model
 {
-    internal class Clientes
+    public class Clientes
     {
 
         public int codigo { get; set; }
@@ -23,9 +23,6 @@ namespace ProjControl.Forms.Forms.Model
         public string bairro { get; set; }
         public string cidade { get; set; }
         public string estado { get; set; }
-
-
-
 
     }
 }
