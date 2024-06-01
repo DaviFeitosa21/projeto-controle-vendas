@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\",
+  "WorkspaceRootPath": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|c:\\users\\davis\\onedrive\\documentos\\projetos_pessoais\\projcontrol\\projcontrol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|c:\\users\\davis\\onedrive\\documentos\\projetos_pessoais\\projeto-controle-vendas\\projcontrol\\projcontrol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|solutionrelative:projcontrol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|c:\\users\\davis\\onedrive\\documentos\\projetos_pessoais\\projcontrol\\projcontrol\\forms\\forms.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|solutionrelative:projcontrol\\forms\\forms.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|c:\\users\\davis\\onedrive\\documentos\\projetos_pessoais\\projcontrol\\projcontrol\\forms\\forms.model\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|solutionrelative:projcontrol\\forms\\forms.model\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|c:\\users\\davis\\onedrive\\documentos\\projetos_pessoais\\projcontrol\\projcontrol\\forms\\forms.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\projcontrol\\forms\\forms.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|solutionrelative:projcontrol\\forms\\forms.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|c:\\users\\davis\\onedrive\\documentos\\projetos_pessoais\\projcontrol\\projcontrol\\forms\\forms.connection\\connectionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\projcontrol\\forms\\forms.model\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|solutionrelative:projcontrol\\forms\\forms.model\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\projcontrol\\forms\\forms.connection\\connectionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|solutionrelative:projcontrol\\forms\\forms.connection\\connectionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|c:\\users\\davis\\onedrive\\documentos\\projetos_pessoais\\projcontrol\\projcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\projcontrol\\forms\\forms.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|solutionrelative:projcontrol\\forms\\forms.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\projcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|solutionrelative:projcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|c:\\users\\davis\\onedrive\\documentos\\projetos_pessoais\\projcontrol\\projcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\projcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D2B4F3-67CB-4AED-BC72-29334387B49B}|ProjControl\\ProjControl.csproj|solutionrelative:projcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ConnectionBD.cs",
-              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Forms\\Forms.Connection\\ConnectionBD.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Forms\\Forms.Connection\\ConnectionBD.cs",
               "RelativeDocumentMoniker": "ProjControl\\Forms\\Forms.Connection\\ConnectionBD.cs",
-              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Forms\\Forms.Connection\\ConnectionBD.cs",
+              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Forms\\Forms.Connection\\ConnectionBD.cs",
               "RelativeToolTip": "ProjControl\\Forms\\Forms.Connection\\ConnectionBD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T00:41:07.793Z",
               "EditorCaption": ""
@@ -61,22 +61,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\App.config",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\App.config",
               "RelativeDocumentMoniker": "ProjControl\\App.config",
-              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\App.config",
+              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\App.config",
               "RelativeToolTip": "ProjControl\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-06-01T00:32:52.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "frmClientes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Forms\\Forms.View\\frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Forms\\Forms.View\\frmClientes.cs",
               "RelativeDocumentMoniker": "ProjControl\\Forms\\Forms.View\\frmClientes.cs",
-              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Forms\\Forms.View\\frmClientes.cs [Design]",
+              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Forms\\Forms.View\\frmClientes.cs [Design]",
               "RelativeToolTip": "ProjControl\\Forms\\Forms.View\\frmClientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T22:00:16.168Z",
@@ -84,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "frmClientes.cs",
-              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Forms\\Forms.View\\frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Forms\\Forms.View\\frmClientes.cs",
               "RelativeDocumentMoniker": "ProjControl\\Forms\\Forms.View\\frmClientes.cs",
-              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Forms\\Forms.View\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Forms\\Forms.View\\frmClientes.cs",
               "RelativeToolTip": "ProjControl\\Forms\\Forms.View\\frmClientes.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAADwvyMAAAA8AAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T00:13:08.921Z",
               "EditorCaption": ""
@@ -99,9 +99,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Forms\\Forms.Model\\Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Forms\\Forms.Model\\Clientes.cs",
               "RelativeDocumentMoniker": "ProjControl\\Forms\\Forms.Model\\Clientes.cs",
-              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Forms\\Forms.Model\\Clientes.cs",
+              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Forms\\Forms.Model\\Clientes.cs",
               "RelativeToolTip": "ProjControl\\Forms\\Forms.Model\\Clientes.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,26 +112,24 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Program.cs",
               "RelativeDocumentMoniker": "ProjControl\\Program.cs",
-              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Program.cs",
+              "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Program.cs",
               "RelativeToolTip": "ProjControl\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T23:27:53.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T23:27:53.648Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\projeto-controle-vendas\\ProjControl\\ProjControl\\Form1.cs",
               "RelativeDocumentMoniker": "ProjControl\\Form1.cs",
               "ToolTip": "C:\\Users\\davis\\OneDrive\\Documentos\\projetos_pessoais\\ProjControl\\ProjControl\\Form1.cs [Design]",
-              "RelativeToolTip": "ProjControl\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\ProjControl\\ProjControl\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T21:34:33.633Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-31T21:34:33.633Z"
             }
           ]
         }

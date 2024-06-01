@@ -10,7 +10,7 @@ namespace ProjControl.Forms.Forms.Connection
 {
     public class ConnectionBD
     {
-
+        //conexão com o banco de dados
         public MySqlConnection getconnection()
         {
             string conexao = ConfigurationManager.ConnectionStrings["bdvendas"].ConnectionString;
