@@ -1,4 +1,5 @@
-﻿using ProjControl.Forms.Forms.Model;
+﻿using ProjControl.Forms.Forms.Connection.Forms.DAO;
+using ProjControl.Forms.Forms.Model;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -50,8 +51,29 @@ namespace ProjControl.Forms.Forms.View
 
         private void btnNovo_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void btnSalvar_Click(object sender, EventArgs e)
+        {
             Clientes obj = new Clientes();
+
             obj.nome = txtNome.Text;
+            obj.rg = mTxtRG.Text;
+            obj.cpf = mTxtCPF.Text;
+            obj.email = txtEmail.Text;
+            obj.telefone = mTxtTelefone.Text;
+            obj.celular = mTxtCelular.Text;
+            obj.cep = mTxtCep.Text;
+            obj.endereco = txtEnd.Text;
+            obj.numero = int.Parse(txtNum.Text);
+            obj.complemento = txtComple.Text;
+            obj.bairro = txtBairro.Text;
+            obj.cidade = txtCidade.Text;
+            obj.estado = cBoxEstado.Text;
+
+            ClientesDAO dao = new ClientesDAO();
+            dao.cadastrarClientes(obj);
         }
     }
 }
