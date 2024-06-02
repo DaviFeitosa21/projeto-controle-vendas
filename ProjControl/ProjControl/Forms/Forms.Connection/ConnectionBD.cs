@@ -16,6 +16,5 @@ namespace ProjControl.Forms.Forms.Connection
             string conexao = ConfigurationManager.ConnectionStrings["bdvendas"].ConnectionString;
             return new MySqlConnection(conexao);
         }
-
     }
 }

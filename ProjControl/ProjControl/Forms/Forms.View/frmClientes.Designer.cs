@@ -146,7 +146,6 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Dados Pessoais";
             this.tabPage1.UseVisualStyleBackColor = true;
-            this.tabPage1.Click += new System.EventHandler(this.tabPage1_Click);
             // 
             // cBoxEstado
             // 
@@ -162,7 +161,6 @@
             this.cBoxEstado.Name = "cBoxEstado";
             this.cBoxEstado.Size = new System.Drawing.Size(121, 28);
             this.cBoxEstado.TabIndex = 33;
-            this.cBoxEstado.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // mTxtCep
             // 
@@ -319,7 +317,6 @@
             this.label7.Size = new System.Drawing.Size(84, 20);
             this.label7.TabIndex = 11;
             this.label7.Text = "Telefone:";
-            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label6
             // 
@@ -336,7 +333,6 @@
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(266, 26);
             this.txtEmail.TabIndex = 8;
-            this.txtEmail.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // label5
             // 
@@ -409,6 +405,7 @@
             this.tabelaClientes.Name = "tabelaClientes";
             this.tabelaClientes.Size = new System.Drawing.Size(948, 317);
             this.tabelaClientes.TabIndex = 3;
+            this.tabelaClientes.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.tabelaClientes_CellClick);
             // 
             // btnConsult
             // 
@@ -443,7 +440,6 @@
             this.btnNovo.TabIndex = 34;
             this.btnNovo.Text = "Novo";
             this.btnNovo.UseVisualStyleBackColor = true;
-            this.btnNovo.Click += new System.EventHandler(this.btnNovo_Click);
             // 
             // btnSalvar
             // 
@@ -463,6 +459,7 @@
             this.btnEditar.TabIndex = 36;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // btnExcluir
             // 
@@ -472,6 +469,7 @@
             this.btnExcluir.TabIndex = 37;
             this.btnExcluir.Text = "Excluir";
             this.btnExcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
             // 
             // frmClientes
             // 
@@ -489,6 +487,7 @@
             this.Name = "frmClientes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastro de Clientes";
+            this.Load += new System.EventHandler(this.frmClientes_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.tabControl1.ResumeLayout(false);
